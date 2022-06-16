@@ -54,10 +54,6 @@ The image below shows the script used to print the results by candidate.
 The image below shows the script to print the election results by county.
 ![SS3-PrintCountyVotes](Resources/SS3-PrintCountyVotes.png)
 
-### Text File with Vote Results
-
-![SS4-Election_Analysis_TextFile.png](Resources/SS4-Election_Analysis_TextFile.png)
-
 ### Terminal Output with Vote Results
 
 ![SS5-Election_Analysis_Terminal.png](Resources/SS5-Election_Analysis_Terminal.png)
